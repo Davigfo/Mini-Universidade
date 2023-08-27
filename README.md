@@ -1,2 +1,2 @@
 # Mini-Universidade
-Site simples, e inicialmente feito com tag <table> para práticar o html.
+Nesse pequeno projeot eu aprendi a fazer um Site simples, e inicialmente feito com tag <table> para prática de html.
